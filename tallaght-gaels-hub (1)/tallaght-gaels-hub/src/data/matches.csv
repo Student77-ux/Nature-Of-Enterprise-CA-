@@ -1,0 +1,241 @@
+match_id,date,day_of_week,season,team,competition,opponent,venue,is_home,is_derby,is_weekend,is_championship,is_senior,throw_in_hour,temperature_c,rainfall_mm,promo_posts,home_form_points,score_for,score_against,result,attendance,split
+M0001,2022-02-12,Saturday,2022,U16 Hurling,Championship,Greenhills Sarsfields,Sean Walsh Park,1,0,1,1,0,16,,2.7,6,8,0-10,1-20,Loss,376,train
+M0002,2022-02-15,Tuesday,2022,Minor Football,Championship,Ballycragh Gaels,Tymon Park North,1,0,0,1,0,19,5.8,0.7,6,11,1-10,2-07,Draw,364,train
+M0003,2022-02-19,Saturday,2022,Senior Camogie,Championship,Rathcoole Shamrocks,Away Ground,0,0,1,1,1,11,5.3,0.0,5,14,4-15,4-10,Win,689,train
+M0004,2022-02-23,Wednesday,2022,Senior Hurling,League,Brookfield Éire Óg,Away Ground,0,0,0,0,1,19,,0.0,6,7,2-10,2-06,Win,480,train
+M0005,2022-02-28,Monday,2022,Minor Football,Cup,Oldbawn St Brigid's,Killinarden Park,1,0,0,0,0,19,3.7,0.0,6,11,2-16,2-06,Win,371,train
+M0006,2022-03-05,Saturday,2022,Minor Football,Cup,Fettercairn Celtic,Killinarden Park,1,1,1,0,0,15,10.0,0.0,9,4,4-12,4-17,Loss,619,train
+M0007,2022-03-12,Saturday,2022,Ladies Senior Football,Championship,Springfield Harps,Sean Walsh Park,1,0,1,1,1,11,8.2,0.0,6,4,3-16,4-18,Loss,617,train
+M0008,2022-03-18,Friday,2022,Minor Football,Cup,Killinarden Rovers,Away Ground,0,1,0,0,0,18,5.9,0.0,7,5,3-09,3-04,Win,377,train
+M0009,2022-03-24,Thursday,2022,Minor Football,Cup,Kilnamanagh Óg,Away Ground,0,0,0,0,0,19,8.9,0.0,5,4,4-04,4-14,Loss,290,train
+M0010,2022-04-01,Friday,2022,Senior Hurling,Championship,Rathcoole Shamrocks,Away Ground,0,0,0,1,1,19,9.5,1.9,9,9,0-21,1-08,Win,736,test
+M0011,2022-04-09,Saturday,2022,Minor Football,Championship,Ballycragh Gaels,Away Ground,0,0,1,1,0,15,,0.0,5,10,2-18,4-18,Loss,493,test
+M0012,2022-04-13,Wednesday,2022,Senior Football,Championship,Fettercairn Celtic,Tymon Park North,1,1,0,1,1,19,9.1,0.5,9,10,0-14,0-20,Loss,923,train
+M0013,2022-04-18,Monday,2022,Ladies Senior Football,League,Bohernabreena Rangers,Tymon Park North,1,0,0,0,1,20,9.5,2.6,8,7,2-17,3-18,Loss,510,test
+M0014,2022-04-21,Thursday,2022,U16 Hurling,League,Kilnamanagh Óg,Tymon Park North,1,0,0,0,0,19,9.8,0.0,5,4,1-12,3-11,Loss,259,train
+M0015,2022-04-25,Monday,2022,Senior Camogie,Cup,Kilnamanagh Óg,Tymon Park North,1,0,0,0,1,18,15.2,0.0,7,12,1-16,0-09,Win,647,train
+M0016,2022-05-02,Monday,2022,Senior Hurling,Challenge,Greenhills Sarsfields,Away Ground,0,0,0,0,1,20,11.3,3.4,5,10,3-08,1-13,Win,274,train
+M0017,2022-05-07,Saturday,2022,Senior Hurling,League,Firhouse Emmets,Away Ground,0,1,1,0,1,11,15.0,1.3,6,13,4-06,1-06,Win,715,train
+M0018,2022-05-11,Wednesday,2022,U16 Hurling,Cup,Saggart St Finian's,Tymon Park North,1,0,0,0,0,19,11.5,0.5,5,2,2-12,1-14,Win,212,train
+M0019,2022-05-16,Monday,2022,Ladies Senior Football,League,Brookfield Éire Óg,Sean Walsh Park,1,0,0,0,1,18,3.2,2.4,7,15,2-08,2-06,Win,519,train
+M0020,2022-05-21,Saturday,2022,Ladies Senior Football,Championship,Whitestown Éire Óg,Away Ground,0,0,1,1,1,16,9.8,5.6,,11,4-13,0-08,Win,556,train
+M0021,2022-05-27,Friday,2022,Senior Hurling,Challenge,Springfield Harps,Tymon Park North,1,0,0,0,1,19,11.8,0.0,5,9,0-06,3-12,Loss,530,train
+M0022,2022-05-30,Monday,2022,Senior Hurling,League,Springfield Harps,Away Ground,0,0,0,0,1,19,13.7,2.4,5,10,1-21,0-15,Win,486,test
+M0023,2022-06-04,Saturday,2022,Senior Camogie,Championship,Brookfield Éire Óg,Sean Walsh Park,1,0,1,1,1,14,15.5,,7,3,3-08,1-09,Win,551,train
+M0024,2022-06-09,Thursday,2022,Senior Camogie,Championship,Fettercairn Celtic,Away Ground,0,1,0,1,1,20,16.7,0.0,,11,0-16,0-19,Loss,826,train
+M0025,2022-06-14,Tuesday,2022,Senior Football,Cup,Whitestown Éire Óg,Sean Walsh Park,1,0,0,0,1,19,16.7,1.0,9,6,2-15,4-16,Loss,567,train
+M0026,2022-06-21,Tuesday,2022,Senior Hurling,Championship,Greenhills Sarsfields,Killinarden Park,1,0,0,1,1,18,17.2,2.0,6,10,4-07,3-22,Loss,828,train
+M0027,2022-06-26,Sunday,2022,Ladies Senior Football,Championship,Ballycragh Gaels,Tymon Park North,1,0,1,1,1,16,14.2,0.0,6,10,2-14,0-13,Win,773,train
+M0028,2022-07-02,Saturday,2022,U16 Hurling,League,Saggart St Finian's,Away Ground,0,0,1,0,0,15,18.5,2.3,4,14,4-22,2-16,Win,236,test
+M0029,2022-07-05,Tuesday,2022,Ladies Senior Football,Championship,Ballycragh Gaels,Away Ground,0,0,0,1,1,19,13.9,,3,5,1-06,2-20,Loss,559,train
+M0030,2022-07-12,Tuesday,2022,Senior Hurling,Cup,Templeogue Wanderers,Away Ground,0,0,0,0,1,19,17.1,0.0,8,1,0-18,3-22,Loss,569,test
+M0031,2022-07-17,Sunday,2022,U16 Hurling,League,Knocklyon Pearses,Sean Walsh Park,1,0,1,0,0,16,14.5,0.0,8,12,1-09,4-18,Loss,377,test
+M0032,2022-07-20,Wednesday,2022,Minor Football,Championship,Kilnamanagh Óg,Killinarden Park,1,0,0,1,0,19,21.8,0.0,6,9,4-18,1-19,Win,406,train
+M0033,2022-07-28,Thursday,2022,Ladies Senior Football,Cup,Greenhills Sarsfields,Away Ground,0,0,0,0,1,20,15.1,0.0,6,2,2-21,0-08,Win,517,train
+M0034,2022-08-02,Tuesday,2022,Senior Football,League,Springfield Harps,Away Ground,0,0,0,0,1,18,14.3,2.1,9,8,3-22,0-22,Win,582,train
+M0035,2022-08-09,Tuesday,2022,Senior Camogie,Championship,Rathcoole Shamrocks,Killinarden Park,1,0,0,1,1,20,12.2,0.6,8,11,2-17,3-04,Win,616,train
+M0036,2022-08-16,Tuesday,2022,Ladies Senior Football,League,Saggart St Finian's,Away Ground,0,0,0,0,1,20,22.7,0.0,8,8,0-06,3-08,Loss,478,train
+M0037,2022-08-24,Wednesday,2022,Senior Football,Championship,Saggart St Finian's,Killinarden Park,1,0,0,1,1,19,13.5,4.5,8,6,0-19,0-21,Loss,695,train
+M0038,2022-08-27,Saturday,2022,Ladies Senior Football,Championship,Jobstown Gaels,Away Ground,0,1,1,1,1,16,16.9,1.4,9,5,1-08,3-07,Loss,727,train
+M0039,2022-09-01,Thursday,2022,Senior Camogie,League,Rathcoole Shamrocks,Tymon Park North,1,0,0,0,1,18,14.5,,2,6,4-16,3-10,Win,414,train
+M0040,2022-09-05,Monday,2022,Minor Football,League,Templeogue Wanderers,Killinarden Park,1,0,0,0,0,18,15.2,0.0,3,1,0-20,2-04,Win,273,train
+M0041,2022-09-12,Monday,2022,Senior Camogie,Championship,Rathcoole Shamrocks,Away Ground,0,0,0,1,1,20,13.5,0.0,8,10,4-19,3-17,Win,598,train
+M0042,2022-09-18,Sunday,2022,Ladies Senior Football,Cup,Jobstown Gaels,Killinarden Park,1,1,1,0,1,12,,0.0,6,10,2-09,3-10,Loss,813,train
+M0043,2022-09-25,Sunday,2022,Ladies Senior Football,League,Greenhills Sarsfields,Away Ground,0,0,1,0,1,15,15.2,0.9,3,10,3-19,3-04,Win,536,test
+M0044,2022-09-29,Thursday,2022,Ladies Senior Football,Championship,Templeogue Wanderers,Tymon Park North,1,0,0,1,1,19,11.0,1.5,7,7,3-12,2-12,Win,584,train
+M0045,2022-10-04,Tuesday,2022,Senior Hurling,Cup,Fettercairn Celtic,Tymon Park North,1,1,0,0,1,19,12.7,4.3,5,6,4-13,0-10,Win,604,test
+M0046,2022-10-10,Monday,2022,Senior Football,League,Brookfield Éire Óg,Tymon Park North,1,0,0,0,1,19,10.1,6.3,5,8,3-07,0-22,Loss,439,test
+M0047,2022-10-16,Sunday,2022,Senior Camogie,League,Fettercairn Celtic,Sean Walsh Park,1,1,1,0,1,14,14.0,0.8,6,11,0-08,1-22,Loss,713,train
+M0048,2022-10-22,Saturday,2022,Senior Hurling,Challenge,Kilnamanagh Óg,Away Ground,0,0,1,0,1,15,7.6,0.0,3,5,3-13,4-17,Loss,430,train
+M0049,2022-10-28,Friday,2022,Minor Football,League,Kilnamanagh Óg,Away Ground,0,0,0,0,0,19,9.8,0.5,6,2,1-04,3-18,Loss,297,train
+M0050,2022-11-05,Saturday,2022,Ladies Senior Football,Championship,Brookfield Éire Óg,Away Ground,0,0,1,1,1,16,8.5,1.1,6,5,4-10,3-07,Win,720,train
+M0051,2022-11-10,Thursday,2022,U16 Hurling,Championship,Greenhills Sarsfields,Away Ground,0,0,0,1,0,18,12.2,2.8,9,9,3-07,3-13,Loss,194,train
+M0052,2022-11-17,Thursday,2022,Ladies Senior Football,League,Knocklyon Pearses,Tymon Park North,1,0,0,0,1,18,11.2,0.0,7,9,4-22,0-12,Win,545,train
+M0053,2022-11-20,Sunday,2022,Senior Football,League,Whitestown Éire Óg,Away Ground,0,0,1,0,1,12,10.7,1.6,8,11,3-14,2-07,Win,600,train
+M0054,2022-11-25,Friday,2022,Ladies Senior Football,League,Knocklyon Pearses,Killinarden Park,1,0,0,0,1,18,,2.0,7,6,4-04,4-18,Loss,451,train
+M0055,2023-02-08,Wednesday,2023,Senior Football,League,Knocklyon Pearses,Away Ground,0,0,0,0,1,18,6.6,3.1,3,13,0-04,4-11,Loss,509,train
+M0056,2023-02-13,Monday,2023,Ladies Senior Football,League,Ballycragh Gaels,Sean Walsh Park,1,0,0,0,1,20,9.2,0.1,7,4,2-17,3-19,Loss,468,train
+M0057,2023-02-18,Saturday,2023,Senior Camogie,League,Saggart St Finian's,Tymon Park North,1,0,1,0,1,15,5.7,0.0,6,2,2-20,2-04,Win,423,train
+M0058,2023-02-24,Friday,2023,U16 Hurling,Championship,Knocklyon Pearses,Away Ground,0,0,0,1,0,20,3.4,0.5,5,8,2-10,1-22,Loss,244,train
+M0059,2023-03-03,Friday,2023,Senior Football,Cup,Ballycragh Gaels,Tymon Park North,1,0,0,0,1,20,5.9,0.0,4,7,1-19,0-08,Win,525,train
+M0060,2023-03-10,Friday,2023,Senior Hurling,Cup,Whitestown Éire Óg,Killinarden Park,1,0,0,0,1,18,6.7,0.0,7,9,2-14,4-16,Loss,691,train
+M0061,2023-03-14,Tuesday,2023,Ladies Senior Football,Cup,Saggart St Finian's,Away Ground,0,0,0,0,1,20,,0.5,3,2,1-06,3-07,Loss,329,train
+M0062,2023-03-18,Saturday,2023,Senior Camogie,Championship,Brookfield Éire Óg,Away Ground,0,0,1,1,1,11,6.8,1.3,5,6,3-22,1-09,Win,589,test
+M0063,2023-03-23,Thursday,2023,Senior Hurling,League,Saggart St Finian's,Away Ground,0,0,0,0,1,19,3.8,0.8,4,5,0-18,2-21,Loss,405,train
+M0064,2023-03-28,Tuesday,2023,Senior Hurling,League,Rathcoole Shamrocks,Away Ground,0,0,0,0,1,19,5.4,0.0,6,5,3-19,0-11,Win,458,train
+M0065,2023-04-04,Tuesday,2023,Minor Football,League,Brookfield Éire Óg,Away Ground,0,0,0,0,0,19,14.2,1.1,9,7,0-19,2-11,Win,299,train
+M0066,2023-04-11,Tuesday,2023,Senior Football,League,Greenhills Sarsfields,Away Ground,0,0,0,0,1,19,5.5,0.0,5,9,4-15,1-06,Win,572,train
+M0067,2023-04-17,Monday,2023,Ladies Senior Football,Cup,Oldbawn St Brigid's,Tymon Park North,1,0,0,0,1,19,3.8,0.0,6,12,3-13,2-07,Win,658,test
+M0068,2023-04-25,Tuesday,2023,Senior Hurling,Championship,Templeogue Wanderers,Away Ground,0,0,0,1,1,20,14.0,0.0,7,7,4-07,3-15,Loss,704,train
+M0069,2023-05-01,Monday,2023,Minor Football,League,Rathcoole Shamrocks,Sean Walsh Park,1,0,0,0,0,20,17.5,1.3,7,8,0-18,2-17,Loss,322,train
+M0070,2023-05-05,Friday,2023,Senior Football,Championship,Firhouse Emmets,Killinarden Park,1,1,0,1,1,18,16.7,2.9,6,3,4-17,4-08,Win,854,train
+M0071,2023-05-12,Friday,2023,U16 Hurling,Championship,Knocklyon Pearses,Away Ground,0,0,0,1,0,19,14.6,1.1,10,7,0-15,4-15,Loss,298,train
+M0072,2023-05-15,Monday,2023,Senior Camogie,Championship,Kilnamanagh Óg,Away Ground,0,0,0,1,1,20,13.7,1.4,7,9,2-11,1-22,Loss,563,train
+M0073,2023-05-20,Saturday,2023,Senior Hurling,Cup,Bohernabreena Rangers,Away Ground,0,0,1,0,1,12,11.5,1.6,9,13,1-08,4-12,Loss,680,train
+M0074,2023-05-25,Thursday,2023,Senior Hurling,League,Killinarden Rovers,Killinarden Park,1,1,0,0,1,19,11.8,0.5,8,5,0-06,3-18,Loss,721,test
+M0075,2023-06-01,Thursday,2023,Minor Football,League,Whitestown Éire Óg,Tymon Park North,1,0,0,0,0,18,14.2,0.0,5,9,0-05,3-16,Loss,425,train
+M0076,2023-06-08,Thursday,2023,U16 Hurling,Championship,Whitestown Éire Óg,Sean Walsh Park,1,0,0,1,0,19,14.3,0.4,5,6,2-16,4-20,Loss,299,train
+M0077,2023-06-14,Wednesday,2023,Senior Camogie,League,Ballycragh Gaels,Tymon Park North,1,0,0,0,1,18,17.3,0.0,5,11,3-11,3-14,Loss,504,train
+M0078,2023-06-22,Thursday,2023,Senior Camogie,League,Kilnamanagh Óg,Killinarden Park,1,0,0,0,1,19,13.9,1.5,9,13,0-17,0-15,Win,580,train
+M0079,2023-06-27,Tuesday,2023,Minor Football,Championship,Fettercairn Celtic,Away Ground,0,1,0,1,0,20,12.7,2.9,10,11,2-13,2-07,Win,414,test
+M0080,2023-07-02,Sunday,2023,Senior Football,League,Templeogue Wanderers,Away Ground,0,0,1,0,1,14,18.0,0.0,3,11,4-21,0-12,Win,594,train
+M0081,2023-07-05,Wednesday,2023,Senior Football,Championship,Brookfield Éire Óg,Away Ground,0,0,0,1,1,19,21.8,1.1,6,9,0-06,4-10,Loss,770,train
+M0082,2023-07-12,Wednesday,2023,Senior Camogie,League,Oldbawn St Brigid's,Tymon Park North,1,0,0,0,1,19,17.2,0.0,7,2,4-05,0-12,Win,502,train
+M0083,2023-07-20,Thursday,2023,U16 Hurling,League,Whitestown Éire Óg,Sean Walsh Park,1,0,0,0,0,18,15.9,1.7,4,10,2-05,1-16,Loss,256,train
+M0084,2023-07-23,Sunday,2023,Senior Hurling,Championship,Bohernabreena Rangers,Away Ground,0,0,1,1,1,14,16.3,1.9,6,8,4-11,4-21,Loss,776,train
+M0085,2023-07-30,Sunday,2023,Senior Hurling,League,Firhouse Emmets,Killinarden Park,1,1,1,0,1,11,,0.0,6,9,0-16,0-14,Win,734,test
+M0086,2023-08-04,Friday,2023,Minor Football,League,Rathcoole Shamrocks,Sean Walsh Park,1,0,0,0,0,19,13.9,2.0,8,2,1-14,1-06,Win,227,test
+M0087,2023-08-08,Tuesday,2023,Minor Football,League,Rathcoole Shamrocks,Tymon Park North,1,0,0,0,0,19,16.4,2.3,3,4,0-09,3-18,Loss,211,train
+M0088,2023-08-16,Wednesday,2023,U16 Hurling,Challenge,Fettercairn Celtic,Away Ground,0,1,0,0,0,19,16.9,1.9,6,7,0-15,4-06,Loss,339,train
+M0089,2023-08-22,Tuesday,2023,Senior Camogie,League,Firhouse Emmets,Killinarden Park,1,1,0,0,1,18,11.9,0.0,5,3,4-21,0-18,Win,549,train
+M0090,2023-08-27,Sunday,2023,Ladies Senior Football,League,Springfield Harps,Away Ground,0,0,1,0,1,15,20.7,3.6,5,6,1-05,1-18,Loss,429,test
+M0091,2023-09-04,Monday,2023,Minor Football,League,Oldbawn St Brigid's,Killinarden Park,1,0,0,0,0,20,12.2,2.0,6,9,0-14,0-21,Loss,234,train
+M0092,2023-09-11,Monday,2023,Ladies Senior Football,Championship,Springfield Harps,Tymon Park North,1,0,0,1,1,19,16.1,0.3,6,9,0-13,4-16,Loss,653,train
+M0093,2023-09-18,Monday,2023,Senior Football,League,Jobstown Gaels,Away Ground,0,1,0,0,1,20,13.7,1.1,9,6,3-10,1-08,Win,633,train
+M0094,2023-09-23,Saturday,2023,Senior Hurling,Championship,Kilnamanagh Óg,Tymon Park North,1,0,1,1,1,16,14.7,0.8,7,6,3-08,1-09,Win,803,train
+M0095,2023-09-28,Thursday,2023,U16 Hurling,League,Ballycragh Gaels,Tymon Park North,1,0,0,0,0,19,17.7,0.6,6,11,1-13,3-10,Loss,299,train
+M0096,2023-10-05,Thursday,2023,U16 Hurling,Challenge,Whitestown Éire Óg,Killinarden Park,1,0,0,0,0,20,8.5,1.5,6,4,2-05,3-15,Loss,264,train
+M0097,2023-10-09,Monday,2023,U16 Hurling,Cup,Kilnamanagh Óg,Sean Walsh Park,1,0,0,0,0,19,8.2,2.2,9,12,3-15,0-17,Win,385,train
+M0098,2023-10-12,Thursday,2023,Senior Camogie,League,Templeogue Wanderers,Sean Walsh Park,1,0,0,0,1,19,11.6,3.1,5,3,1-08,0-13,Loss,356,train
+M0099,2023-10-20,Friday,2023,U16 Hurling,Cup,Knocklyon Pearses,Sean Walsh Park,1,0,0,0,0,18,13.0,1.6,8,4,3-07,2-11,Loss,271,train
+M0100,2023-10-26,Thursday,2023,Senior Hurling,Championship,Ballycragh Gaels,Away Ground,0,0,0,1,1,20,15.8,2.8,4,8,4-11,1-13,Win,630,train
+M0101,2023-11-02,Thursday,2023,Senior Hurling,League,Templeogue Wanderers,Away Ground,0,0,0,0,1,19,7.3,0.9,8,14,4-20,4-04,Win,578,test
+M0102,2023-11-09,Thursday,2023,Senior Camogie,Championship,Saggart St Finian's,Away Ground,0,0,0,1,1,19,7.9,0.0,7,2,0-22,2-08,Win,608,train
+M0103,2023-11-12,Sunday,2023,Ladies Senior Football,League,Oldbawn St Brigid's,Away Ground,0,0,1,0,1,16,4.0,2.2,6,9,3-05,2-10,Loss,461,train
+M0104,2023-11-15,Wednesday,2023,Senior Football,Challenge,Fettercairn Celtic,Away Ground,0,1,0,0,1,20,11.1,1.4,6,5,2-05,2-12,Loss,448,test
+M0105,2023-11-19,Sunday,2023,Ladies Senior Football,League,Saggart St Finian's,Away Ground,0,0,1,0,1,15,7.0,2.6,3,10,2-06,3-06,Loss,537,train
+M0106,2023-11-26,Sunday,2023,Minor Football,Challenge,Oldbawn St Brigid's,Killinarden Park,1,0,1,0,0,11,11.3,2.9,3,6,3-15,3-05,Win,222,test
+M0107,2024-02-17,Saturday,2024,Senior Camogie,Championship,Firhouse Emmets,Tymon Park North,1,1,1,1,1,15,2.6,3.3,9,10,4-18,0-08,Win,758,train
+M0108,2024-02-21,Wednesday,2024,Senior Football,Cup,Rathcoole Shamrocks,Tymon Park North,1,0,0,0,1,18,2.6,0.0,4,14,4-08,4-15,Loss,716,train
+M0109,2024-02-28,Wednesday,2024,Ladies Senior Football,League,Templeogue Wanderers,Away Ground,0,0,0,0,1,18,5.4,0.0,4,7,2-18,1-13,Win,409,train
+M0110,2024-03-07,Thursday,2024,Senior Football,Championship,Jobstown Gaels,Tymon Park North,1,1,0,1,1,20,11.9,0.7,11,14,0-21,4-13,Loss,953,test
+M0111,2024-03-13,Wednesday,2024,Senior Football,League,Oldbawn St Brigid's,Away Ground,0,0,0,0,1,19,8.5,1.6,6,4,4-22,2-18,Win,464,train
+M0112,2024-03-18,Monday,2024,Minor Football,Challenge,Jobstown Gaels,Tymon Park North,1,1,0,0,0,20,2.8,0.3,11,11,0-18,3-20,Loss,481,train
+M0113,2024-03-25,Monday,2024,Senior Football,Cup,Oldbawn St Brigid's,Away Ground,0,0,0,0,1,19,2.0,2.4,7,2,1-09,2-11,Loss,513,train
+M0114,2024-04-01,Monday,2024,Minor Football,Challenge,Jobstown Gaels,Tymon Park North,1,1,0,0,0,19,11.0,1.7,5,8,4-08,1-14,Win,356,test
+M0115,2024-04-04,Thursday,2024,Senior Hurling,Championship,Greenhills Sarsfields,Away Ground,0,0,0,1,1,20,8.9,0.3,4,13,2-19,1-16,Win,681,train
+M0116,2024-04-10,Wednesday,2024,Senior Camogie,Championship,Firhouse Emmets,Killinarden Park,1,1,0,1,1,20,7.1,1.0,9,4,2-16,1-15,Win,665,test
+M0117,2024-04-14,Sunday,2024,Ladies Senior Football,Championship,Kilnamanagh Óg,Sean Walsh Park,1,0,1,1,1,12,11.2,1.5,6,7,1-14,4-14,Loss,662,train
+M0118,2024-04-19,Friday,2024,Senior Football,League,Whitestown Éire Óg,Killinarden Park,1,0,0,0,1,20,15.6,1.2,7,8,2-05,0-13,Loss,585,train
+M0119,2024-04-27,Saturday,2024,Minor Football,Challenge,Knocklyon Pearses,Sean Walsh Park,1,0,1,0,0,11,4.5,2.2,5,10,3-05,4-21,Loss,237,train
+M0120,2024-05-02,Thursday,2024,Ladies Senior Football,League,Jobstown Gaels,Killinarden Park,1,1,0,0,1,19,13.9,0.0,8,9,2-14,4-15,Loss,678,test
+M0121,2024-05-07,Tuesday,2024,Senior Football,League,Saggart St Finian's,Sean Walsh Park,1,0,0,0,1,18,13.7,1.9,3,8,4-08,2-14,Draw,569,train
+M0122,2024-05-12,Sunday,2024,Senior Camogie,Challenge,Brookfield Éire Óg,Away Ground,0,0,1,0,1,15,13.7,0.0,4,10,2-14,0-17,Win,542,train
+M0123,2024-05-18,Saturday,2024,U16 Hurling,Cup,Killinarden Rovers,Away Ground,0,1,1,0,0,14,16.6,0.1,5,11,4-19,1-20,Win,445,test
+M0124,2024-05-25,Saturday,2024,Senior Football,Cup,Templeogue Wanderers,Tymon Park North,1,0,1,0,1,11,,2.5,5,7,4-19,0-08,Win,679,test
+M0125,2024-05-30,Thursday,2024,Minor Football,League,Knocklyon Pearses,Killinarden Park,1,0,0,0,0,19,9.1,1.3,4,8,2-19,1-11,Win,197,train
+M0126,2024-06-05,Wednesday,2024,Minor Football,Championship,Brookfield Éire Óg,Away Ground,0,0,0,1,0,19,13.9,0.0,3,8,2-13,0-22,Loss,306,train
+M0127,2024-06-12,Wednesday,2024,Senior Camogie,Cup,Springfield Harps,Killinarden Park,1,0,0,0,1,18,13.4,,5,5,4-12,4-12,Draw,486,test
+M0128,2024-06-17,Monday,2024,Senior Hurling,League,Templeogue Wanderers,Tymon Park North,1,0,0,0,1,19,,0.3,5,7,1-04,4-09,Loss,550,train
+M0129,2024-06-24,Monday,2024,U16 Hurling,Challenge,Knocklyon Pearses,Sean Walsh Park,1,0,0,0,0,19,13.4,3.1,7,13,4-05,1-17,Loss,293,train
+M0130,2024-06-29,Saturday,2024,Senior Hurling,Challenge,Saggart St Finian's,Away Ground,0,0,1,0,1,12,21.1,0.0,5,13,4-07,2-13,Draw,535,train
+M0131,2024-07-07,Sunday,2024,U16 Hurling,League,Knocklyon Pearses,Away Ground,0,0,1,0,0,12,18.3,0.0,,4,3-12,1-04,Win,335,train
+M0132,2024-07-14,Sunday,2024,Ladies Senior Football,League,Bohernabreena Rangers,Tymon Park North,1,0,1,0,1,15,18.1,0.0,5,2,1-19,2-11,Win,548,train
+M0133,2024-07-17,Wednesday,2024,Ladies Senior Football,League,Whitestown Éire Óg,Away Ground,0,0,0,0,1,19,15.3,3.7,4,0,0-07,3-13,Loss,273,test
+M0134,2024-07-22,Monday,2024,Senior Camogie,League,Brookfield Éire Óg,Away Ground,0,0,0,0,1,19,15.4,1.9,4,14,4-15,3-21,Loss,454,train
+M0135,2024-07-30,Tuesday,2024,Minor Football,Cup,Bohernabreena Rangers,Away Ground,0,0,0,0,0,18,13.5,0.6,7,6,4-20,1-22,Win,296,train
+M0136,2024-08-04,Sunday,2024,Senior Football,League,Whitestown Éire Óg,Sean Walsh Park,1,0,1,0,1,16,15.3,0.9,6,8,4-17,3-22,Loss,618,train
+M0137,2024-08-07,Wednesday,2024,Minor Football,League,Brookfield Éire Óg,Away Ground,0,0,0,0,0,20,16.3,1.4,7,5,0-21,0-06,Win,284,train
+M0138,2024-08-15,Thursday,2024,Senior Hurling,Championship,Oldbawn St Brigid's,Away Ground,0,0,0,1,1,20,12.4,4.0,8,7,0-21,1-15,Win,614,train
+M0139,2024-08-19,Monday,2024,Senior Football,Challenge,Saggart St Finian's,Tymon Park North,1,0,0,0,1,19,18.5,0.0,2,15,3-21,3-11,Win,535,test
+M0140,2024-08-24,Saturday,2024,Senior Camogie,League,Greenhills Sarsfields,Tymon Park North,1,0,1,0,1,11,20.0,1.8,9,9,1-10,0-07,Win,548,train
+M0141,2024-08-27,Tuesday,2024,Senior Camogie,League,Firhouse Emmets,Sean Walsh Park,1,1,0,0,1,20,,2.1,7,11,2-11,4-14,Loss,573,test
+M0142,2024-09-03,Tuesday,2024,Senior Football,League,Springfield Harps,Away Ground,0,0,0,0,1,19,12.4,1.8,3,8,1-17,4-19,Loss,440,train
+M0143,2024-09-06,Friday,2024,Ladies Senior Football,Challenge,Saggart St Finian's,Away Ground,0,0,0,0,1,19,13.3,0.0,6,6,1-11,2-08,Draw,429,train
+M0144,2024-09-14,Saturday,2024,Senior Hurling,League,Ballycragh Gaels,Away Ground,0,0,1,0,1,12,12.7,2.0,7,6,2-06,4-10,Loss,583,train
+M0145,2024-09-17,Tuesday,2024,Ladies Senior Football,League,Firhouse Emmets,Away Ground,0,1,0,0,1,19,15.4,0.0,7,10,2-13,0-10,Win,645,train
+M0146,2024-09-22,Sunday,2024,U16 Hurling,Championship,Knocklyon Pearses,Away Ground,0,0,1,1,0,16,12.8,0.4,4,13,3-18,4-15,Draw,372,train
+M0147,2024-09-28,Saturday,2024,Ladies Senior Football,League,Knocklyon Pearses,Tymon Park North,1,0,1,0,1,15,14.4,,5,5,1-08,0-12,Loss,598,train
+M0148,2024-10-05,Saturday,2024,Ladies Senior Football,Championship,Fettercairn Celtic,Tymon Park North,1,1,1,1,1,12,7.4,1.5,8,10,3-18,1-15,Win,917,train
+M0149,2024-10-10,Thursday,2024,Senior Football,Cup,Knocklyon Pearses,Tymon Park North,1,0,0,0,1,18,6.3,1.0,6,2,0-17,1-11,Win,571,train
+M0150,2024-10-14,Monday,2024,U16 Hurling,Championship,Bohernabreena Rangers,Killinarden Park,1,0,0,1,0,18,8.4,0.0,5,9,0-21,4-17,Loss,365,test
+M0151,2024-10-17,Thursday,2024,Senior Hurling,League,Greenhills Sarsfields,Killinarden Park,1,0,0,0,1,18,7.2,1.5,7,7,0-20,1-11,Win,535,train
+M0152,2024-10-22,Tuesday,2024,Minor Football,League,Rathcoole Shamrocks,Killinarden Park,1,0,0,0,0,18,9.3,2.8,7,9,0-05,0-16,Loss,298,train
+M0153,2024-10-29,Tuesday,2024,Senior Camogie,League,Firhouse Emmets,Away Ground,0,1,0,0,1,19,15.6,3.2,5,9,0-20,0-11,Win,634,train
+M0154,2024-11-03,Sunday,2024,U16 Hurling,Challenge,Knocklyon Pearses,Sean Walsh Park,1,0,1,0,0,16,12.9,0.0,9,9,2-04,1-22,Loss,406,train
+M0155,2024-11-08,Friday,2024,U16 Hurling,Cup,Jobstown Gaels,Tymon Park North,1,1,0,0,0,19,3.3,0.2,6,10,1-06,4-15,Loss,402,train
+M0156,2024-11-11,Monday,2024,Senior Hurling,League,Jobstown Gaels,Tymon Park North,1,1,0,0,1,20,10.2,1.3,7,9,1-15,4-16,Loss,618,test
+M0157,2024-11-18,Monday,2024,Senior Football,League,Saggart St Finian's,Tymon Park North,1,0,0,0,1,19,9.1,0.0,7,2,1-16,2-15,Loss,626,train
+M0158,2024-11-22,Friday,2024,Senior Hurling,Championship,Brookfield Éire Óg,Killinarden Park,1,0,0,1,1,18,9.0,2.5,5,7,0-06,2-21,Loss,678,train
+M0159,2024-11-26,Tuesday,2024,Minor Football,League,Fettercairn Celtic,Away Ground,0,1,0,0,0,18,7.2,3.3,10,2,1-22,4-09,Win,253,train
+M0160,2025-02-10,Monday,2025,Senior Football,Championship,Greenhills Sarsfields,Sean Walsh Park,1,0,0,1,1,19,3.2,1.7,8,8,1-19,4-10,Draw,759,train
+M0161,2025-02-18,Tuesday,2025,Senior Hurling,Championship,Killinarden Rovers,Away Ground,0,1,0,1,1,19,7.1,0.0,6,12,4-08,2-14,Draw,847,train
+M0162,2025-02-23,Sunday,2025,Senior Camogie,League,Saggart St Finian's,Away Ground,0,0,1,0,1,14,5.4,0.0,6,14,2-16,2-07,Win,495,train
+M0163,2025-02-28,Friday,2025,Minor Football,Challenge,Oldbawn St Brigid's,Away Ground,0,0,0,0,0,18,8.5,0.3,3,10,0-17,3-08,Draw,227,test
+M0164,2025-03-06,Thursday,2025,Senior Football,Championship,Springfield Harps,Away Ground,0,0,0,1,1,20,14.3,3.3,5,8,3-21,0-15,Win,700,train
+M0165,2025-03-10,Monday,2025,Senior Hurling,Cup,Rathcoole Shamrocks,Tymon Park North,1,0,0,0,1,18,3.7,0.0,8,9,3-07,0-07,Win,631,train
+M0166,2025-03-16,Sunday,2025,Senior Football,League,Templeogue Wanderers,Killinarden Park,1,0,1,0,1,15,7.7,0.0,5,8,0-13,3-06,Loss,667,train
+M0167,2025-03-20,Thursday,2025,U16 Hurling,Championship,Brookfield Éire Óg,Sean Walsh Park,1,0,0,1,0,20,6.5,1.5,6,10,0-07,0-14,Loss,333,train
+M0168,2025-03-24,Monday,2025,U16 Hurling,Cup,Templeogue Wanderers,Tymon Park North,1,0,0,0,0,19,5.9,2.5,7,7,1-17,3-04,Win,189,train
+M0169,2025-03-29,Saturday,2025,Senior Camogie,League,Saggart St Finian's,Sean Walsh Park,1,0,1,0,1,12,6.5,3.6,3,11,4-09,2-14,Win,431,train
+M0170,2025-04-03,Thursday,2025,Senior Camogie,Championship,Knocklyon Pearses,Tymon Park North,1,0,0,1,1,19,6.5,0.0,5,9,4-09,2-22,Loss,692,train
+M0171,2025-04-07,Monday,2025,U16 Hurling,Championship,Kilnamanagh Óg,Sean Walsh Park,1,0,0,1,0,19,8.4,1.3,5,7,3-09,3-21,Loss,277,train
+M0172,2025-04-12,Saturday,2025,Minor Football,Championship,Brookfield Éire Óg,Killinarden Park,1,0,1,1,0,15,,,6,14,3-21,4-19,Loss,526,train
+M0173,2025-04-19,Saturday,2025,U16 Hurling,League,Whitestown Éire Óg,Sean Walsh Park,1,0,1,0,0,15,13.7,1.2,5,6,1-18,4-19,Loss,415,train
+M0174,2025-04-23,Wednesday,2025,Minor Football,Championship,Rathcoole Shamrocks,Sean Walsh Park,1,0,0,1,0,20,1.9,0.0,8,3,2-05,3-12,Loss,292,train
+M0175,2025-04-30,Wednesday,2025,Senior Hurling,League,Kilnamanagh Óg,Away Ground,0,0,0,0,1,19,10.5,3.5,7,10,3-09,4-08,Loss,425,train
+M0176,2025-05-05,Monday,2025,Senior Football,Cup,Rathcoole Shamrocks,Tymon Park North,1,0,0,0,1,19,10.4,3.2,6,6,0-08,3-05,Loss,681,train
+M0177,2025-05-11,Sunday,2025,U16 Hurling,Championship,Springfield Harps,Tymon Park North,1,0,1,1,0,14,,0.0,4,10,2-17,3-18,Loss,454,test
+M0178,2025-05-15,Thursday,2025,U16 Hurling,Cup,Jobstown Gaels,Tymon Park North,1,1,0,0,0,19,10.4,0.0,5,7,0-18,2-06,Win,421,train
+M0179,2025-05-22,Thursday,2025,Senior Football,Challenge,Bohernabreena Rangers,Killinarden Park,1,0,0,0,1,19,10.4,2.7,3,9,0-05,0-18,Loss,410,train
+M0180,2025-05-25,Sunday,2025,Senior Hurling,Challenge,Oldbawn St Brigid's,Sean Walsh Park,1,0,1,0,1,15,13.4,3.3,4,3,2-06,2-12,Loss,422,train
+M0181,2025-05-29,Thursday,2025,Ladies Senior Football,League,Oldbawn St Brigid's,Tymon Park North,1,0,0,0,1,19,11.5,0.0,6,7,1-19,0-08,Win,525,train
+M0182,2025-06-03,Tuesday,2025,Minor Football,League,Killinarden Rovers,Killinarden Park,1,1,0,0,0,18,17.7,0.7,9,3,0-07,2-15,Loss,480,train
+M0183,2025-06-09,Monday,2025,Senior Football,League,Springfield Harps,Away Ground,0,0,0,0,1,19,18.0,1.8,6,9,1-08,3-18,Loss,580,train
+M0184,2025-06-14,Saturday,2025,Senior Hurling,Challenge,Springfield Harps,Away Ground,0,0,1,0,1,15,14.7,0.0,5,7,0-11,4-13,Loss,456,train
+M0185,2025-06-17,Tuesday,2025,U16 Hurling,Cup,Bohernabreena Rangers,Tymon Park North,1,0,0,0,0,19,15.0,0.0,10,2,3-16,0-11,Win,255,train
+M0186,2025-06-25,Wednesday,2025,U16 Hurling,League,Killinarden Rovers,Away Ground,0,1,0,0,0,19,18.5,3.4,,9,3-06,0-22,Loss,379,train
+M0187,2025-06-29,Sunday,2025,Senior Hurling,Championship,Firhouse Emmets,Away Ground,0,1,1,1,1,15,11.3,0.7,6,8,0-21,4-08,Win,926,train
+M0188,2025-07-05,Saturday,2025,Senior Hurling,League,Bohernabreena Rangers,Away Ground,0,0,1,0,1,12,14.1,0.6,7,9,0-13,3-11,Loss,539,train
+M0189,2025-07-08,Tuesday,2025,Senior Football,Championship,Ballycragh Gaels,Tymon Park North,1,0,0,1,1,18,15.0,3.8,9,10,0-09,3-15,Loss,825,train
+M0190,2025-07-14,Monday,2025,Senior Football,League,Greenhills Sarsfields,Away Ground,0,0,0,0,1,18,16.7,0.6,5,11,4-06,3-18,Loss,585,train
+M0191,2025-07-21,Monday,2025,Senior Hurling,League,Oldbawn St Brigid's,Killinarden Park,1,0,0,0,1,18,19.7,0.0,6,3,0-11,0-19,Loss,582,test
+M0192,2025-07-28,Monday,2025,Senior Camogie,Challenge,Oldbawn St Brigid's,Away Ground,0,0,0,0,1,18,11.2,0.0,3,10,3-14,2-06,Win,380,train
+M0193,2025-08-04,Monday,2025,Senior Hurling,League,Firhouse Emmets,Tymon Park North,1,1,0,0,1,18,17.2,1.1,6,8,2-06,4-18,Loss,797,train
+M0194,2025-08-07,Thursday,2025,Ladies Senior Football,Championship,Brookfield Éire Óg,Away Ground,0,0,0,1,1,19,12.9,1.8,7,8,4-11,1-04,Win,549,test
+M0195,2025-08-14,Thursday,2025,Senior Hurling,Championship,Rathcoole Shamrocks,Away Ground,0,0,0,1,1,18,16.4,1.3,8,9,0-10,4-11,Loss,661,train
+M0196,2025-08-21,Thursday,2025,Senior Camogie,Challenge,Springfield Harps,Away Ground,0,0,0,0,1,18,18.1,1.7,2,12,3-06,4-07,Loss,412,train
+M0197,2025-08-26,Tuesday,2025,U16 Hurling,Cup,Jobstown Gaels,Away Ground,0,1,0,0,0,18,10.1,3.1,7,5,3-14,2-18,Loss,356,train
+M0198,2025-09-01,Monday,2025,Senior Football,Championship,Bohernabreena Rangers,Tymon Park North,1,0,0,1,1,18,15.1,2.0,5,8,1-18,2-18,Loss,793,test
+M0199,2025-09-07,Sunday,2025,Senior Hurling,Championship,Brookfield Éire Óg,Away Ground,0,0,1,1,1,16,12.8,0.3,8,12,2-16,4-05,Win,891,train
+M0200,2025-09-13,Saturday,2025,Ladies Senior Football,Cup,Oldbawn St Brigid's,Killinarden Park,1,0,1,0,1,15,11.1,0.3,,3,0-04,0-11,Loss,678,train
+M0201,2025-09-18,Thursday,2025,Senior Football,Cup,Rathcoole Shamrocks,Away Ground,0,0,0,0,1,18,12.5,0.4,7,11,3-08,0-14,Win,634,train
+M0202,2025-09-22,Monday,2025,Senior Hurling,Challenge,Firhouse Emmets,Tymon Park North,1,1,0,0,1,20,15.3,0.0,6,1,1-09,2-12,Loss,514,test
+M0203,2025-09-30,Tuesday,2025,Senior Football,Championship,Templeogue Wanderers,Away Ground,0,0,0,1,1,20,11.4,2.3,7,2,1-20,1-21,Loss,678,test
+M0204,2025-10-03,Friday,2025,Senior Camogie,Cup,Rathcoole Shamrocks,Killinarden Park,1,0,0,0,1,19,13.8,0.4,7,7,1-04,2-05,Loss,586,train
+M0205,2025-10-11,Saturday,2025,Minor Football,League,Templeogue Wanderers,Away Ground,0,0,1,0,0,11,11.2,2.8,6,8,1-22,3-15,Win,210,train
+M0206,2025-10-16,Thursday,2025,Senior Football,Championship,Fettercairn Celtic,Away Ground,0,1,0,1,1,19,11.7,1.3,10,10,4-10,3-21,Loss,842,train
+M0207,2025-10-22,Wednesday,2025,Senior Football,League,Jobstown Gaels,Tymon Park North,1,1,0,0,1,19,14.1,1.8,5,6,2-09,2-05,Win,600,test
+M0208,2025-10-25,Saturday,2025,Senior Football,League,Springfield Harps,Away Ground,0,0,1,0,1,15,15.4,0.0,7,7,0-14,2-14,Loss,622,train
+M0209,2025-10-30,Thursday,2025,Senior Football,Cup,Ballycragh Gaels,Away Ground,0,0,0,0,1,20,10.2,0.6,4,14,2-11,4-09,Loss,490,train
+M0210,2025-11-06,Thursday,2025,Ladies Senior Football,Cup,Brookfield Éire Óg,Tymon Park North,1,0,0,0,1,18,13.9,0.2,11,7,0-09,4-14,Loss,605,test
+M0211,2025-11-11,Tuesday,2025,U16 Hurling,League,Knocklyon Pearses,Tymon Park North,1,0,0,0,0,18,8.5,6.7,6,4,2-18,0-12,Win,133,train
+M0212,2025-11-16,Sunday,2025,Senior Football,League,Rathcoole Shamrocks,Sean Walsh Park,1,0,1,0,1,16,10.5,1.6,9,10,3-16,2-21,Loss,658,train
+M0213,2025-11-23,Sunday,2025,Senior Hurling,Cup,Templeogue Wanderers,Sean Walsh Park,1,0,1,0,1,11,7.3,3.1,7,14,3-09,0-21,Loss,687,train
+M0214,2025-11-27,Thursday,2025,Ladies Senior Football,League,Knocklyon Pearses,Away Ground,0,0,0,0,1,20,9.4,,6,13,1-10,3-21,Loss,481,train
+M0215,2026-02-18,Wednesday,2026,Ladies Senior Football,Championship,Kilnamanagh Óg,Tymon Park North,1,0,0,1,1,20,7.1,2.3,6,7,4-19,1-07,Win,661,test
+M0216,2026-02-21,Saturday,2026,Senior Football,Championship,Brookfield Éire Óg,Away Ground,0,0,1,1,1,15,6.9,0.0,4,7,0-21,3-09,Win,778,train
+M0217,2026-02-28,Saturday,2026,Senior Camogie,League,Whitestown Éire Óg,Killinarden Park,1,0,1,0,1,15,5.3,4.3,7,9,0-06,2-21,Loss,560,train
+M0218,2026-03-07,Saturday,2026,Minor Football,Championship,Firhouse Emmets,Away Ground,0,1,1,1,0,15,4.4,1.9,4,12,3-13,0-16,Win,524,train
+M0219,2026-03-10,Tuesday,2026,Minor Football,League,Springfield Harps,Killinarden Park,1,0,0,0,0,19,8.7,0.5,6,5,0-17,1-08,Win,316,test
+M0220,2026-03-16,Monday,2026,Ladies Senior Football,Challenge,Jobstown Gaels,Tymon Park North,1,1,0,0,1,20,2.3,0.0,6,8,4-22,4-17,Win,499,train
+M0221,2026-03-20,Friday,2026,Senior Camogie,Championship,Kilnamanagh Óg,Away Ground,0,0,0,1,1,18,8.4,0.0,8,12,3-22,4-19,Draw,584,train
+M0222,2026-03-23,Monday,2026,Senior Football,Championship,Springfield Harps,Away Ground,0,0,0,1,1,20,12.5,1.7,7,6,2-15,0-14,Win,777,train
+M0223,2026-03-29,Sunday,2026,Ladies Senior Football,Championship,Knocklyon Pearses,Away Ground,0,0,1,1,1,16,11.5,2.9,9,3,2-12,3-06,Win,609,test
+M0224,2026-04-03,Friday,2026,Senior Camogie,Championship,Ballycragh Gaels,Away Ground,0,0,0,1,1,19,10.8,0.0,6,4,1-20,4-04,Win,604,train
+M0225,2026-04-08,Wednesday,2026,Senior Football,Cup,Bohernabreena Rangers,Away Ground,0,0,0,0,1,19,10.2,0.7,6,6,3-20,3-07,Win,618,train
+M0226,2026-04-11,Saturday,2026,Senior Football,League,Whitestown Éire Óg,Killinarden Park,1,0,1,0,1,15,7.1,0.1,5,12,0-13,0-16,Loss,778,train
+M0227,2026-04-14,Tuesday,2026,Senior Football,Cup,Bohernabreena Rangers,Away Ground,0,0,0,0,1,19,8.5,0.0,9,7,0-19,1-09,Win,622,train
+M0228,2026-04-17,Friday,2026,Senior Football,Championship,Brookfield Éire Óg,Away Ground,0,0,0,1,1,19,7.2,1.4,7,6,4-16,4-07,Win,742,train
+M0229,2026-04-20,Monday,2026,Minor Football,Challenge,Rathcoole Shamrocks,Away Ground,0,0,0,0,0,19,9.0,1.4,7,2,2-12,2-10,Win,163,test
+M0230,2026-04-25,Saturday,2026,Minor Football,Cup,Firhouse Emmets,Away Ground,0,1,1,0,0,15,7.5,1.5,9,4,2-12,3-16,Loss,470,train
+M0231,2026-05-02,Saturday,2026,U16 Hurling,Championship,Bohernabreena Rangers,Tymon Park North,1,0,1,1,0,12,10.8,0.0,8,8,2-09,4-09,Loss,429,train
+M0232,2026-05-08,Friday,2026,Senior Hurling,League,Greenhills Sarsfields,Away Ground,0,0,0,0,1,19,17.5,0.0,6,9,2-17,2-15,Win,593,test
+M0233,2026-05-14,Thursday,2026,Minor Football,Championship,Kilnamanagh Óg,Tymon Park North,1,0,0,1,0,18,10.5,,6,3,3-05,1-08,Win,317,train
+M0234,2026-05-19,Tuesday,2026,Ladies Senior Football,League,Whitestown Éire Óg,Tymon Park North,1,0,0,0,1,19,,0.0,7,9,0-18,2-10,Win,605,test
+M0235,2026-05-24,Sunday,2026,Minor Football,Cup,Knocklyon Pearses,Away Ground,0,0,1,0,0,11,14.1,2.1,4,7,0-05,4-10,Loss,343,train
+M0236,2026-05-31,Sunday,2026,Senior Hurling,Challenge,Bohernabreena Rangers,Sean Walsh Park,1,0,1,0,1,16,12.0,0.0,5,12,4-22,2-09,Win,589,train
+M0237,2026-06-04,Thursday,2026,Senior Hurling,Championship,Brookfield Éire Óg,Tymon Park North,1,0,0,1,1,19,11.4,1.9,9,3,1-09,3-04,Loss,717,train
+M0238,2026-06-09,Tuesday,2026,Senior Football,Cup,Springfield Harps,Sean Walsh Park,1,0,0,0,1,19,17.9,2.8,4,11,4-05,4-05,Draw,682,train
+M0239,2026-06-13,Saturday,2026,U16 Hurling,Cup,Firhouse Emmets,Away Ground,0,1,1,0,0,15,,1.1,7,5,0-13,3-07,Loss,405,train
+M0240,2026-06-19,Friday,2026,Minor Football,League,Springfield Harps,Sean Walsh Park,1,0,0,0,0,18,14.1,3.9,3,8,4-10,2-17,Loss,199,test

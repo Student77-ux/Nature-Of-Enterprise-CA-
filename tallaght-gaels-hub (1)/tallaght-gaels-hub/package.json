@@ -1,0 +1,23 @@
+{
+  "name": "tallaght-gaels-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tallaght Community Sports Hub - a club companion app for Tallaght Gaels CLG (fictional). DATAH1010 repeat assessment.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "15.5.25",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.0.2",
+    "@types/react-dom": "19.0.2",
+    "typescript": "5.7.2"
+  }
+}

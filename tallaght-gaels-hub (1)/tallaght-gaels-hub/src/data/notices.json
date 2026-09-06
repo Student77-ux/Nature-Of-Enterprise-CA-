@@ -1,0 +1,42 @@
+[
+  {
+    "id": "N001",
+    "kind": "Lost and found",
+    "title": "Grey Gaels hoodie left in the stand",
+    "body": "Age 11-12 size, name tag says 'Cara'. It is behind the bar in the clubhouse, ask for Marie.",
+    "postedOn": "2026-09-01",
+    "contactArea": "Clubhouse"
+  },
+  {
+    "id": "N002",
+    "kind": "Lift share",
+    "title": "Two seats going to the U16 game in Rathcoole",
+    "body": "Leaving the clubhouse car park at half five on the Saturday. Two seats free, first come first served.",
+    "postedOn": "2026-09-03",
+    "contactArea": "Sean Walsh Park"
+  },
+  {
+    "id": "N003",
+    "kind": "Volunteering",
+    "title": "Stewards needed for the championship quarter-final",
+    "body": "We need six more stewards for the gate and the car park. No experience needed, briefing is 45 minutes before throw-in.",
+    "postedOn": "2026-09-04",
+    "contactArea": "Sean Walsh Park"
+  },
+  {
+    "id": "N004",
+    "kind": "Club notice",
+    "title": "Camogie gear order closes on Friday",
+    "body": "Last call for the winter half-zip order. Sizes 8 to 18 and youth sizes. Order form is in the clubhouse.",
+    "postedOn": "2026-09-05",
+    "contactArea": "Clubhouse"
+  },
+  {
+    "id": "N005",
+    "kind": "Lost and found",
+    "title": "Set of car keys found at Tymon Park North",
+    "body": "Found near the Limekiln Road gate after Sunday training. Toyota fob with a green keyring.",
+    "postedOn": "2026-08-30",
+    "contactArea": "Tymon Park North"
+  }
+]

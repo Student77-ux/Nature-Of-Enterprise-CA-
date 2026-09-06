@@ -1,0 +1,32 @@
+{
+ "features": [
+  "is_home",
+  "is_derby",
+  "is_weekend",
+  "is_championship",
+  "is_senior",
+  "promo_posts",
+  "rainfall_mm",
+  "temperature_c",
+  "home_form_points",
+  "hours_from_peak"
+ ],
+ "coefficients": [
+  41.5103,
+  134.9754,
+  17.3743,
+  122.0593,
+  276.5004,
+  15.1742,
+  -14.283,
+  2.7325,
+  7.3017,
+  -12.5794
+ ],
+ "intercept": 114.8941,
+ "medians": {
+  "temperature_c": 11.6,
+  "rainfall_mm": 0.8,
+  "promo_posts": 6
+ }
+}

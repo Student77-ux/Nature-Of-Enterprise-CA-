@@ -1,0 +1,23 @@
+# Netlify build configuration for the Tallaght Community Sports Hub.
+# Netlify installs the Next.js runtime automatically; it is pinned here so the
+# build behaves the same locally (netlify build) and on the Netlify servers.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Security headers. Nothing here is required by the assessment, but a public
+# site that accepts form submissions should not ship without them.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
